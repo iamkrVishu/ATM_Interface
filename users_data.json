@@ -1,0 +1,34 @@
+{
+    "1200": {
+        "name": "vishu",
+        "pin": "$2b$12$STxB4VLgLLlydiq1yPV2Ae/iqM1RtOxE3PiNLUWGk6v2A0ZblRfOq",
+        "balance": 2500,
+        "pet_name": "bolt",
+        "transactions": [
+            {
+                "type": "Transfer In",
+                "amount": "500",
+                "date": "2025-02-26 20:43:01.292990",
+                "from": "203201"
+            }
+        ],
+        "creation_date": "2025-02-26 07:42:56.309914",
+        "last_login": "2025-02-26 07:42:56.309914"
+    },
+    "203201": {
+        "name": "Vishvajeet_Kumar",
+        "pin": "$2b$12$itxWPxXRas9HJWxTDqKPHe37Xdbqc10YKxq6KodxDyn4Te/zmcmhu",
+        "balance": 1500,
+        "pet_name": "bob",
+        "transactions": [
+            {
+                "type": "Transfer Out",
+                "amount": "500",
+                "date": "2025-02-26 20:43:01.292990",
+                "to": "1200"
+            }
+        ],
+        "creation_date": "2025-02-26 20:42:20.469485",
+        "last_login": "2025-02-26 20:42:20.469485"
+    }
+}
