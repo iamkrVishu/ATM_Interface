@@ -1,5 +1,5 @@
 # 📢 Internship Task Details
-This project is part of my internship at Brainwave Matrix Solutions, where I am working as a Python Programming Intern.
+This project is part of my internship , where I am working as a Python Programming Intern.
 
 # 🚩 Task Objective:
 Create a fully functional ATM Interface using Python.
