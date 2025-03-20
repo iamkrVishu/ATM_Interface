@@ -1,4 +1,3 @@
-﻿# Brainwave Matrix Intern
 # 📢 Internship Task Details
 This project is part of my internship at Brainwave Matrix Solutions, where I am working as a Python Programming Intern.
 
